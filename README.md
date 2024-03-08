@@ -1,0 +1,1 @@
+The CreateUser shred is a Spring Boot microservice feature designed to handle user registration. It includes a REST API endpoint for clients to register new users and a Postgres database to store user information. The shred uses Hexagonal Architecture to ensure decoupling and focuses on a single fea
